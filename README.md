@@ -1,2 +1,2 @@
-# hellowhale
-Simple Docker Demo App
+# whale
+Simple Demo App
